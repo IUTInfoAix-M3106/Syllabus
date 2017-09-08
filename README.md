@@ -9,11 +9,18 @@
     * [Email](mailto:sebastien.nedjar@univ-amu.fr) pour une question d'ordre privée, ou pour convenir d'un rendez-vous physique.
 
 ## Intentions pédagogiques
+Appréhender des notions avancées sur la qualité des schémas et les aspects systèmes.
 
 ## Pré-requis
- 
-## Objectifs du parcours
+- **M2106** : Programmation et administration des bases de données
 
+## Objectifs du parcours
+- Qualité des schémas, problème de la redondance, formes normales
+- Contraintes d’intégrité et règles de gestion, déclencheurs
+- Présentation de l’architecture fonctionnelle d’un système de gestion de bases de données (SGBD)
+- Transactions, atomicité et gestion de la concurrence d’accès
+- Optimisation : index, requêtes et plan d’exécution
+- Liens avec les langages de programmation 
 
 ## Contenu et structuration du parcours
 
