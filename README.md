@@ -24,18 +24,24 @@ Appréhender des notions avancées sur la qualité des schémas et les aspects s
 
 ## Contenu et structuration du parcours
 
-### CM (
+### CM (4h)
+#### Séance 1 : [Découverte de JDBC](https://github.com/IUTInfoAix-M3106/CoursJdbc)
+#### Séance 2 : [Découverte de JPA2](https://github.com/IUTInfoAix-M3106/CoursJpa)
+
 ### TD
-#### Séance 1 :
-#### Séance 2 :
-#### Séance 3 :
-#### Séance 4 :
+#### Séance 1 : Mise en place de l'environnement
+- Mise en place d'une base de données
+- Compréhension de Maven
+- [Découverte d'un exemple simple d'interrogation avec JDBC](https://github.com/IUTInfoAix-M3106/TutoJDBC)
 
-### TP 
+#### Séance 2 et 3 : Tp d'initiation à JDBC
+- Concept de base
+- Écriture des entités
+- [Création du couche de persistance avec JDBC](https://github.com/IUTInfoAix-M3106/TpJDBC)
 
-#### Séance 5 :
-#### Séance 6 :
-#### Séance 7 :
+#### Séance 4 et 5 : Tp d'initiation à JPA
+- [Découverte de JPA](https://github.com/IUTInfoAix-M3106/TutoJPA)
+- [Création du couche de persistance avec JPA](https://github.com/IUTInfoAix-M3106/TpJpa)
 
 ## Méthodologie
 Formation-action participative et interactive : ces formations s'appuient sur les connaissances, les expériences des participants, leur implication les rendant acteurs de leur formation. Alternance d'apports théoriques, réflexions collectives et individuelles, mises en situation par des exercices et des réalisations pratiques.
@@ -56,4 +62,5 @@ Pour travailler sur d'autres machines que celle du département, il faudra insta
 L'installation de ces outils peut se faire manuellement sous windows, avec [homebrew](https://brew.sh/index_fr.html) sous MacOS ou avec le gestionnaire de paquet de votre distribution Linux.
 
 ## Modalités d'évaluation
+L'évaluation sera double. Elle sera constitué d'un examen sur table de 2h et d'un Tp noté
 
